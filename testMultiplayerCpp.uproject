@@ -29,5 +29,8 @@
 			"Name": "VRM4U",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
